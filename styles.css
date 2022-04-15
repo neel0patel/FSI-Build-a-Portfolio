@@ -1,0 +1,40 @@
+body {
+<<<<<<< HEAD
+  background-color: palegoldenrod;
+}
+
+h1 {
+  color: blue;
+  text-align: center;
+}
+
+h2 {
+  font-family: "Lucida Console", "Courier New", monospace;
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 25%;
+}
+
+h3 {
+  color: rgb(231, 1, 1);
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+}
+ul {
+  display: table;
+  margin: 0 auto;
+  color: dodgerblue;
+  text-align: center;
+}
+
+p {
+  text-align: center;
+=======
+  background-color: solid rgb(187, 131, 222);
+>>>>>>> 8557b90e5d25f309b6a20c36e8dde2daaa5b57b3
+}
